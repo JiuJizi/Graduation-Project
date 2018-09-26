@@ -2,7 +2,7 @@
 ![image](https://github.com/JiuJizi/graduation-project/blob/master/axidraw-robot%5Bcn%5D/quote_picture/axidraw-1.jpg)
 
 ## 3D打印件
-打印3d_file 目录下的全部模型，其中x_motor_mount.stl需要打印2份。
+打印3D_graph 目录下的全部模型，其中x_motor_mount.stl需要打印2份。
 模型文件来源https://www.thingiverse.com/thing:1514145
 
 ## 硬件
