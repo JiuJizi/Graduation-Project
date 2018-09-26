@@ -1,4 +1,4 @@
-https://github.com/JiuJizi/graduation-project/blob/master/axidraw-master/pic/axidraw-1.jpg# axidraw 画图机器人
+# axidraw 画图机器人
 ![image](https://github.com/hznupeter/axidraw/blob/master/pic/axidraw-1.jpg)
 
 ## 3D打印件
