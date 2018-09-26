@@ -1,3 +1,3 @@
-# 毕业设计方案[合集]
+# 毕业设计方案
 ------
-1.axidraw-master(画图机器人)
+axidraw-master(画图机器人)
